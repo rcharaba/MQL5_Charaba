@@ -10,7 +10,7 @@ Step 0: Learn about the basics of technical analysis, this is a mandatory step t
 2) Code base MQL5:
     https://www.mql5.com/en/code/mt5/experts
     
-3) Some studeis about revert trade strategy:
+3) Some studies about revert trade strategy
     https://www.mql5.com/en/articles/5008
     
 4) My first code is a simple trade strategy based on a "critical time of day" trade. This strategy was only tested in Brazilian index (WIN).
