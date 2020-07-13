@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                         Buggy_Player_Charaba.mq5 |
-//|                        Copyright 2020, MetaQuotes Software Corp. |
+//|                                 Copyright 2020, Rodrigo Charaba. |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2020, MetaQuotes Software Corp."
