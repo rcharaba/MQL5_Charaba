@@ -4,14 +4,14 @@ My first steps with MQL5 (Trading automation).
 
 Step 0: Learn about the basics of technical analysis, this is a mandatory step. There's a lot of information on google.
 
-1) My first free youtube course:
-    https://www.youtube.com/watch?v=H3TgD97Cy-k&list=PLV8YK-9p3TcOmgAFIjntw-GxOJoHp9xwc
+1) My first free youtube course:  
+    https://www.youtube.com/watch?v=H3TgD97Cy-k&list=PLV8YK-9p3TcOmgAFIjntw-GxOJoHp9xwc  
     
-2) Code base MQL5:
-    https://www.mql5.com/en/code/mt5/experts
+2) Code base MQL5:  
+    https://www.mql5.com/en/code/mt5/experts  
     
-3) Some studies about revert trade strategy
-    https://www.mql5.com/en/articles/5008
+3) Some studies about revert trade strategy:  
+    https://www.mql5.com/en/articles/5008  
     
 4) My first code (Buggy_Player_Charaba.mq5) is a simple trade strategy based on a "critical time of day" trade. This strategy was only tested in Brazilian index (WIN). The other strategies follow basically the same rule.  
 
