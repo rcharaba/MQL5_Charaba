@@ -13,7 +13,7 @@ Step 0: Learn about the basics of technical analysis, this is a mandatory step t
 3) Some studies about revert trade strategy
     https://www.mql5.com/en/articles/5008
     
-4) My first code is a simple trade strategy based on a "critical time of day" trade. This strategy was only tested in Brazilian index (WIN).
+4) My first code is a simple trade strategy based on a "critical time of day" trade. This strategy was only tested in Brazilian index (WIN). The other strategies follow basically the same rule.  
 
 input int      Lote                 = 5;           // lot  
 input ushort   InpStopLoss          = 300;         // Stop Loss (in pips)  
