@@ -2,7 +2,7 @@
 
 My first steps with MQL5 (Trading automation).
 
-Step 0: Learn about the basics of technical analysis, this is a mandatory step to know about. There's a lot of information about that on google.
+Step 0: Learn about the basics of technical analysis, this is a mandatory step. There's a lot of information on google.
 
 1) My first free youtube course:
     https://www.youtube.com/watch?v=H3TgD97Cy-k&list=PLV8YK-9p3TcOmgAFIjntw-GxOJoHp9xwc
