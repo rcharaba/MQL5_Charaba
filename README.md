@@ -21,7 +21,7 @@ input ushort   InpTakeProfit        = 100;         // Take Profit (in pips)
 input int      Hour_Aperture        = 10;          // Hour to open order  
 input int      Minute_Aperture      = 02;          // Minute to open order  
 input eAllowedTrades Buy_Sell       =SELL;         // Buy or Sell trade  
-input double   Revert_Rate          = 3;           // If you lose, that is the ration to increment the lot (revert trade)  
+input double   Revert_Rate          = 3;           // If you lose, that is the ratio to increment the lot (revert trade)  
 input int      SL_Revert            = 300;         // Take Profit revert (in pips)  
 input int      TP_Revert            = 200;         // Stop Loss revert (in pips)  
 
